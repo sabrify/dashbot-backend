@@ -1,0 +1,676 @@
+[
+    {
+      "id": 9682767216919,
+      "title": "Beast Feast Choice Cuts in Gravy Beef & Country Stew Adult Canned Wet Dog Food Variety Pack",
+      "body_html": "<p>Indulge your furry friend with our Beast Feast Choice Cuts in Gravy Beef &amp; Country Stew Adult Canned Wet Dog Food Variety Pack. Made with real beef, this variety pack offers a delicious and nutritious meal that will leave your dog's taste buds begging for more. With a hearty gravy and chunks of country stew, your dog will feel satisfied and nourished with each bite. Give your dog the high-quality meal they deserve with Beast Feast.</p>",
+      "vendor": "savagepaws.store",
+      "product_type": "",
+      "created_at": "2024-09-21T16:16:03-04:00",
+      "handle": "beast-feast-choice-cuts-in-gravy-beef-country-stew-adult-canned-wet-dog-food-variety-pack",
+      "updated_at": "2024-10-11T12:45:16-04:00",
+      "published_at": "2024-09-21T16:16:03-04:00",
+      "template_suffix": "",
+      "published_scope": "global",
+      "tags": "",
+      "status": "active",
+      "admin_graphql_api_id": "gid://shopify/Product/9682767216919",
+      "variants": [
+        {
+          "id": 49694041211159,
+          "product_id": 9682767216919,
+          "title": "Beef",
+          "price": "59.00",
+          "position": 3,
+          "inventory_policy": "deny",
+          "compare_at_price": "150.00",
+          "option1": "Beef",
+          "option2": null,
+          "option3": null,
+          "created_at": "2024-09-28T12:00:03-04:00",
+          "updated_at": "2024-09-28T12:00:03-04:00",
+          "taxable": true,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 4000,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "",
+          "weight": 4,
+          "weight_unit": "kg",
+          "inventory_item_id": 51741847912727,
+          "inventory_quantity": 10,
+          "old_inventory_quantity": 10,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/49694041211159",
+          "image_id": 46777259032855
+        },
+        {
+          "id": 49694041243927,
+          "product_id": 9682767216919,
+          "title": "Chicken",
+          "price": "59.00",
+          "position": 4,
+          "inventory_policy": "deny",
+          "compare_at_price": "150.00",
+          "option1": "Chicken",
+          "option2": null,
+          "option3": null,
+          "created_at": "2024-09-28T12:00:03-04:00",
+          "updated_at": "2024-09-28T12:00:03-04:00",
+          "taxable": true,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 4000,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "",
+          "weight": 4,
+          "weight_unit": "kg",
+          "inventory_item_id": 51741847945495,
+          "inventory_quantity": 10,
+          "old_inventory_quantity": 10,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/49694041243927",
+          "image_id": 46698359619863
+        },
+        {
+          "id": 49694041276695,
+          "product_id": 9682767216919,
+          "title": "Duck",
+          "price": "59.00",
+          "position": 5,
+          "inventory_policy": "deny",
+          "compare_at_price": "150.00",
+          "option1": "Duck",
+          "option2": null,
+          "option3": null,
+          "created_at": "2024-09-28T12:00:03-04:00",
+          "updated_at": "2024-09-28T12:00:03-04:00",
+          "taxable": true,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 4000,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "",
+          "weight": 4,
+          "weight_unit": "kg",
+          "inventory_item_id": 51741847978263,
+          "inventory_quantity": 10,
+          "old_inventory_quantity": 10,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/49694041276695",
+          "image_id": 46777259065623
+        }
+      ],
+      "options": [
+        {
+          "id": 12178491113751,
+          "product_id": 9682767216919,
+          "name": "Pet food flavor",
+          "position": 1,
+          "values": [
+            "Beef",
+            "Chicken",
+            "Duck"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "id": 46698359619863,
+          "alt": null,
+          "position": 1,
+          "product_id": 9682767216919,
+          "created_at": "2024-09-21T16:15:29-04:00",
+          "updated_at": "2024-09-28T12:04:45-04:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/46698359619863",
+          "width": 1024,
+          "height": 1024,
+          "src": "https://cdn.shopify.com/s/files/1/0894/0260/5847/files/Artboard3Mockup_1.jpg?v=1726949730",
+          "variant_ids": [
+            49694041243927
+          ]
+        },
+        {
+          "id": 46777259032855,
+          "alt": null,
+          "position": 2,
+          "product_id": 9682767216919,
+          "created_at": "2024-09-28T11:55:40-04:00",
+          "updated_at": "2024-09-28T11:55:46-04:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/46777259032855",
+          "width": 1024,
+          "height": 1024,
+          "src": "https://cdn.shopify.com/s/files/1/0894/0260/5847/files/Artboard_6_Mockup_3.jpg?v=1727538942",
+          "variant_ids": [
+            49694041211159
+          ]
+        },
+        {
+          "id": 46777259065623,
+          "alt": null,
+          "position": 3,
+          "product_id": 9682767216919,
+          "created_at": "2024-09-28T11:55:40-04:00",
+          "updated_at": "2024-09-28T11:55:46-04:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/46777259065623",
+          "width": 1024,
+          "height": 1024,
+          "src": "https://cdn.shopify.com/s/files/1/0894/0260/5847/files/Artboard_8_Mockup.jpg?v=1727538942",
+          "variant_ids": [
+            49694041276695
+          ]
+        }
+      ],
+      "image": {
+        "id": 46698359619863,
+        "alt": null,
+        "position": 1,
+        "product_id": 9682767216919,
+        "created_at": "2024-09-21T16:15:29-04:00",
+        "updated_at": "2024-09-28T12:04:45-04:00",
+        "admin_graphql_api_id": "gid://shopify/ProductImage/46698359619863",
+        "width": 1024,
+        "height": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/0894/0260/5847/files/Artboard3Mockup_1.jpg?v=1726949730",
+        "variant_ids": [
+          49694041243927
+        ]
+      }
+    },
+    {
+      "id": 9682764890391,
+      "title": "Beast Feast Complete Nutrition Grilled Steak & Vegetable Flavor Dog Kibble Adult Dry Dog Food",
+      "body_html": "<p><span>Beast Feast Adult Dry Dog Food recipes come in a variety of delicious tastes and textures made with whole grains, protein, and accents of vegetables. All Pedigree adult dry dog food recipes are 100% complete and balanced, with no fillers, artificial flavors, or high-fructose corn syrup. Plus, these recipes support a healthy immune system with essential nutrients including vitamin E and zinc.</span></p>",
+      "vendor": "savagepaws.store",
+      "product_type": "",
+      "created_at": "2024-09-21T16:12:24-04:00",
+      "handle": "beast-feast-complete-nutrition-grilled-steak-vegetable-flavor-dog-kibble-adult-dry-dog-food",
+      "updated_at": "2024-10-16T06:20:17-04:00",
+      "published_at": "2024-10-12T12:33:45-04:00",
+      "template_suffix": "",
+      "published_scope": "global",
+      "tags": "",
+      "status": "active",
+      "admin_graphql_api_id": "gid://shopify/Product/9682764890391",
+      "variants": [
+        {
+          "id": 49668877648151,
+          "product_id": 9682764890391,
+          "title": "Default Title",
+          "price": "99.00",
+          "position": 2,
+          "inventory_policy": "deny",
+          "compare_at_price": "189.00",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "created_at": "2024-09-21T16:12:25-04:00",
+          "updated_at": "2024-10-16T06:18:01-04:00",
+          "taxable": true,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 0,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "",
+          "weight": 0,
+          "weight_unit": "kg",
+          "inventory_item_id": 51716861919511,
+          "inventory_quantity": 9,
+          "old_inventory_quantity": 9,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/49668877648151",
+          "image_id": null
+        }
+      ],
+      "options": [
+        {
+          "id": 12168792965399,
+          "product_id": 9682764890391,
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "id": 46698352312599,
+          "alt": null,
+          "position": 1,
+          "product_id": 9682764890391,
+          "created_at": "2024-09-21T16:11:26-04:00",
+          "updated_at": "2024-09-28T12:04:45-04:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/46698352312599",
+          "width": 1024,
+          "height": 1024,
+          "src": "https://cdn.shopify.com/s/files/1/0894/0260/5847/files/Artboard_3_Mockup.jpg?v=1726949488",
+          "variant_ids": []
+        }
+      ],
+      "image": {
+        "id": 46698352312599,
+        "alt": null,
+        "position": 1,
+        "product_id": 9682764890391,
+        "created_at": "2024-09-21T16:11:26-04:00",
+        "updated_at": "2024-09-28T12:04:45-04:00",
+        "admin_graphql_api_id": "gid://shopify/ProductImage/46698352312599",
+        "width": 1024,
+        "height": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/0894/0260/5847/files/Artboard_3_Mockup.jpg?v=1726949488",
+        "variant_ids": []
+      }
+    },
+    {
+      "id": 9684207304983,
+      "title": "Nutri Bites Beef",
+      "body_html": "",
+      "vendor": "savagepaws.store",
+      "product_type": "",
+      "created_at": "2024-09-23T13:47:10-04:00",
+      "handle": "nutri-bites-chicken-copy",
+      "updated_at": "2024-10-11T12:45:17-04:00",
+      "published_at": "2024-09-23T13:53:07-04:00",
+      "template_suffix": "",
+      "published_scope": "global",
+      "tags": "",
+      "status": "active",
+      "admin_graphql_api_id": "gid://shopify/Product/9684207304983",
+      "variants": [
+        {
+          "id": 49674122297623,
+          "product_id": 9684207304983,
+          "title": "Default Title",
+          "price": "69.00",
+          "position": 2,
+          "inventory_policy": "deny",
+          "compare_at_price": "189.00",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "created_at": "2024-09-23T13:47:10-04:00",
+          "updated_at": "2024-09-28T11:41:41-04:00",
+          "taxable": true,
+          "barcode": null,
+          "fulfillment_service": "manual",
+          "grams": 0,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": null,
+          "weight": 0,
+          "weight_unit": "kg",
+          "inventory_item_id": 51722039689495,
+          "inventory_quantity": 10,
+          "old_inventory_quantity": 10,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/49674122297623",
+          "image_id": null
+        }
+      ],
+      "options": [
+        {
+          "id": 12170844012823,
+          "product_id": 9684207304983,
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "id": 46715832107287,
+          "alt": null,
+          "position": 1,
+          "product_id": 9684207304983,
+          "created_at": "2024-09-23T13:49:10-04:00",
+          "updated_at": "2024-09-23T13:49:12-04:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/46715832107287",
+          "width": 1024,
+          "height": 1024,
+          "src": "https://cdn.shopify.com/s/files/1/0894/0260/5847/files/Artboard6Mockup.jpg?v=1727113752",
+          "variant_ids": []
+        },
+        {
+          "id": 46715832074519,
+          "alt": null,
+          "position": 2,
+          "product_id": 9684207304983,
+          "created_at": "2024-09-23T13:49:10-04:00",
+          "updated_at": "2024-09-23T13:49:12-04:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/46715832074519",
+          "width": 1024,
+          "height": 1024,
+          "src": "https://cdn.shopify.com/s/files/1/0894/0260/5847/files/Artboard6Mockup_2.jpg?v=1727113752",
+          "variant_ids": []
+        }
+      ],
+      "image": {
+        "id": 46715832107287,
+        "alt": null,
+        "position": 1,
+        "product_id": 9684207304983,
+        "created_at": "2024-09-23T13:49:10-04:00",
+        "updated_at": "2024-09-23T13:49:12-04:00",
+        "admin_graphql_api_id": "gid://shopify/ProductImage/46715832107287",
+        "width": 1024,
+        "height": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/0894/0260/5847/files/Artboard6Mockup.jpg?v=1727113752",
+        "variant_ids": []
+      }
+    },
+    {
+      "id": 9690138935575,
+      "title": "Nutri Bites Chicken",
+      "body_html": "",
+      "vendor": "savagepaws.store",
+      "product_type": "",
+      "created_at": "2024-09-28T11:40:55-04:00",
+      "handle": "nutri-bites-chicken-1",
+      "updated_at": "2024-10-11T12:45:17-04:00",
+      "published_at": "2024-09-28T11:40:55-04:00",
+      "template_suffix": "",
+      "published_scope": "global",
+      "tags": "",
+      "status": "active",
+      "admin_graphql_api_id": "gid://shopify/Product/9690138935575",
+      "variants": [
+        {
+          "id": 49694004773143,
+          "product_id": 9690138935575,
+          "title": "Default Title",
+          "price": "69.00",
+          "position": 2,
+          "inventory_policy": "continue",
+          "compare_at_price": "189.00",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "created_at": "2024-09-28T11:40:56-04:00",
+          "updated_at": "2024-09-28T11:41:41-04:00",
+          "taxable": true,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 8000,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "",
+          "weight": 8,
+          "weight_unit": "kg",
+          "inventory_item_id": 51741813244183,
+          "inventory_quantity": 10,
+          "old_inventory_quantity": 10,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/49694004773143",
+          "image_id": null
+        }
+      ],
+      "options": [
+        {
+          "id": 12178475745559,
+          "product_id": 9690138935575,
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "id": 46777178751255,
+          "alt": null,
+          "position": 1,
+          "product_id": 9690138935575,
+          "created_at": "2024-09-28T11:39:20-04:00",
+          "updated_at": "2024-09-28T11:40:55-04:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/46777178751255",
+          "width": 1024,
+          "height": 1024,
+          "src": "https://cdn.shopify.com/s/files/1/0894/0260/5847/files/Chicken_8_Mockup_1.jpg?v=1727537961",
+          "variant_ids": []
+        },
+        {
+          "id": 46777178784023,
+          "alt": null,
+          "position": 2,
+          "product_id": 9690138935575,
+          "created_at": "2024-09-28T11:39:20-04:00",
+          "updated_at": "2024-09-28T11:40:55-04:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/46777178784023",
+          "width": 1024,
+          "height": 1024,
+          "src": "https://cdn.shopify.com/s/files/1/0894/0260/5847/files/Chicken_8_Mockup.jpg?v=1727537961",
+          "variant_ids": []
+        }
+      ],
+      "image": {
+        "id": 46777178751255,
+        "alt": null,
+        "position": 1,
+        "product_id": 9690138935575,
+        "created_at": "2024-09-28T11:39:20-04:00",
+        "updated_at": "2024-09-28T11:40:55-04:00",
+        "admin_graphql_api_id": "gid://shopify/ProductImage/46777178751255",
+        "width": 1024,
+        "height": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/0894/0260/5847/files/Chicken_8_Mockup_1.jpg?v=1727537961",
+        "variant_ids": []
+      }
+    },
+    {
+      "id": 9684207239447,
+      "title": "Nutri Bites Duck",
+      "body_html": "",
+      "vendor": "savagepaws.store",
+      "product_type": "",
+      "created_at": "2024-09-23T13:46:51-04:00",
+      "handle": "nutri-bites-chicken",
+      "updated_at": "2024-10-11T12:45:16-04:00",
+      "published_at": "2024-09-23T13:46:51-04:00",
+      "template_suffix": "",
+      "published_scope": "global",
+      "tags": "",
+      "status": "active",
+      "admin_graphql_api_id": "gid://shopify/Product/9684207239447",
+      "variants": [
+        {
+          "id": 49674122002711,
+          "product_id": 9684207239447,
+          "title": "Default Title",
+          "price": "69.00",
+          "position": 2,
+          "inventory_policy": "deny",
+          "compare_at_price": "189.00",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "created_at": "2024-09-23T13:46:52-04:00",
+          "updated_at": "2024-09-28T11:41:41-04:00",
+          "taxable": true,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 0,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "",
+          "weight": 0,
+          "weight_unit": "kg",
+          "inventory_item_id": 51722039394583,
+          "inventory_quantity": 10,
+          "old_inventory_quantity": 10,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/49674122002711",
+          "image_id": null
+        }
+      ],
+      "options": [
+        {
+          "id": 12170843914519,
+          "product_id": 9684207239447,
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [
+        {
+          "id": 46715816902935,
+          "alt": null,
+          "position": 1,
+          "product_id": 9684207239447,
+          "created_at": "2024-09-23T13:46:29-04:00",
+          "updated_at": "2024-09-28T12:04:45-04:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/46715816902935",
+          "width": 1024,
+          "height": 1024,
+          "src": "https://cdn.shopify.com/s/files/1/0894/0260/5847/files/Artboard8Mockup_2.jpg?v=1727113591",
+          "variant_ids": []
+        },
+        {
+          "id": 46715816935703,
+          "alt": null,
+          "position": 2,
+          "product_id": 9684207239447,
+          "created_at": "2024-09-23T13:46:29-04:00",
+          "updated_at": "2024-09-28T12:04:44-04:00",
+          "admin_graphql_api_id": "gid://shopify/ProductImage/46715816935703",
+          "width": 1024,
+          "height": 1024,
+          "src": "https://cdn.shopify.com/s/files/1/0894/0260/5847/files/Artboard8Mockup_1.jpg?v=1727113591",
+          "variant_ids": []
+        }
+      ],
+      "image": {
+        "id": 46715816902935,
+        "alt": null,
+        "position": 1,
+        "product_id": 9684207239447,
+        "created_at": "2024-09-23T13:46:29-04:00",
+        "updated_at": "2024-09-28T12:04:45-04:00",
+        "admin_graphql_api_id": "gid://shopify/ProductImage/46715816902935",
+        "width": 1024,
+        "height": 1024,
+        "src": "https://cdn.shopify.com/s/files/1/0894/0260/5847/files/Artboard8Mockup_2.jpg?v=1727113591",
+        "variant_ids": []
+      }
+    },
+    {
+      "id": 9705866526999,
+      "title": "test",
+      "body_html": "",
+      "vendor": "savagepaws.store",
+      "product_type": "",
+      "created_at": "2024-10-12T07:50:43-04:00",
+      "handle": "test",
+      "updated_at": "2024-10-12T12:34:15-04:00",
+      "published_at": "2024-10-12T07:50:43-04:00",
+      "template_suffix": "",
+      "published_scope": "global",
+      "tags": "",
+      "status": "active",
+      "admin_graphql_api_id": "gid://shopify/Product/9705866526999",
+      "variants": [
+        {
+          "id": 49733453611287,
+          "product_id": 9705866526999,
+          "title": "Default Title",
+          "price": "10.00",
+          "position": 2,
+          "inventory_policy": "deny",
+          "compare_at_price": null,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "created_at": "2024-10-12T07:50:44-04:00",
+          "updated_at": "2024-10-12T12:34:15-04:00",
+          "taxable": true,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 0,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "",
+          "weight": 0,
+          "weight_unit": "kg",
+          "inventory_item_id": 51781619843351,
+          "inventory_quantity": 0,
+          "old_inventory_quantity": 0,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/49733453611287",
+          "image_id": null
+        }
+      ],
+      "options": [
+        {
+          "id": 12198692716823,
+          "product_id": 9705866526999,
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [],
+      "image": null
+    },
+    {
+      "id": 9705922658583,
+      "title": "test2",
+      "body_html": "",
+      "vendor": "savagepaws.store",
+      "product_type": "",
+      "created_at": "2024-10-12T08:25:59-04:00",
+      "handle": "test2",
+      "updated_at": "2024-10-12T08:26:00-04:00",
+      "published_at": "2024-10-12T08:25:59-04:00",
+      "template_suffix": "",
+      "published_scope": "global",
+      "tags": "",
+      "status": "active",
+      "admin_graphql_api_id": "gid://shopify/Product/9705922658583",
+      "variants": [
+        {
+          "id": 49733507645719,
+          "product_id": 9705922658583,
+          "title": "Default Title",
+          "price": "0.00",
+          "position": 2,
+          "inventory_policy": "deny",
+          "compare_at_price": null,
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "created_at": "2024-10-12T08:26:00-04:00",
+          "updated_at": "2024-10-12T08:26:00-04:00",
+          "taxable": true,
+          "barcode": "",
+          "fulfillment_service": "manual",
+          "grams": 0,
+          "inventory_management": "shopify",
+          "requires_shipping": true,
+          "sku": "",
+          "weight": 0,
+          "weight_unit": "kg",
+          "inventory_item_id": 51781674074391,
+          "inventory_quantity": 0,
+          "old_inventory_quantity": 0,
+          "admin_graphql_api_id": "gid://shopify/ProductVariant/49733507645719",
+          "image_id": null
+        }
+      ],
+      "options": [
+        {
+          "id": 12198756811031,
+          "product_id": 9705922658583,
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ],
+      "images": [],
+      "image": null
+    }
+  ]
