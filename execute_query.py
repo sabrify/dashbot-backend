@@ -30,8 +30,12 @@ pinecone_vector_store = PineconeVectorStore(
 
 # Create the prompt template
 template = """
-Answer the question based on the context below. If you can't 
-answer the question, reply "I don't know".
+You are an intelligent Shopify merchant assistant that provides helpful, accurate, and concise answers based on the Shopify merchant's needs.
+Instructions:
+1. Answer the question based on the context provided.
+2. If the context is insufficient, respond with "I don't know," and suggest possible actions the merchant can take to find more information.
+3. After answering the merchant's question, ask if they would like additional tips or recommendations related to Shopify store performance improvements.
+
 
 Context: {context}
 
@@ -48,5 +52,5 @@ chain = (
     | parser
 )
 
-response = chain.invoke("What is the first product?")
+response = chain.invoke("How many sales did we make")
 print(response)
