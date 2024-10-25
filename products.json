@@ -1,0 +1,441 @@
+{
+    "data": {
+        "products": {
+            "edges": [
+                {
+                    "cursor": "eyJsYXN0X2lkIjo4Njg2OTA1MzYwNjIyLCJsYXN0X3ZhbHVlIjoiODY4NjkwNTM2MDYyMiJ9",
+                    "node": {
+                        "id": "gid://shopify/Product/8686905360622",
+                        "title": "The Inventory Not Tracked Snowboard",
+                        "createdAt": "2024-10-24T11:05:32Z",
+                        "updatedAt": "2024-10-24T11:07:44Z",
+                        "variants": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/45902983758062",
+                                        "title": "Default Title",
+                                        "sku": "sku-untracked-1",
+                                        "price": "949.95"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "cursor": "eyJsYXN0X2lkIjo4Njg2OTA1MzkzMzkwLCJsYXN0X3ZhbHVlIjoiODY4NjkwNTM5MzM5MCJ9",
+                    "node": {
+                        "id": "gid://shopify/Product/8686905393390",
+                        "title": "Gift Card",
+                        "createdAt": "2024-10-24T11:05:32Z",
+                        "updatedAt": "2024-10-24T11:18:39Z",
+                        "variants": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/45902983790830",
+                                        "title": "$10",
+                                        "sku": null,
+                                        "price": "10.00"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/45902983823598",
+                                        "title": "$25",
+                                        "sku": null,
+                                        "price": "25.00"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/45902983856366",
+                                        "title": "$50",
+                                        "sku": null,
+                                        "price": "50.00"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/45902983889134",
+                                        "title": "$100",
+                                        "sku": null,
+                                        "price": "100.00"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "cursor": "eyJsYXN0X2lkIjo4Njg2OTA1NDI2MTU4LCJsYXN0X3ZhbHVlIjoiODY4NjkwNTQyNjE1OCJ9",
+                    "node": {
+                        "id": "gid://shopify/Product/8686905426158",
+                        "title": "The Collection Snowboard: Hydrogen",
+                        "createdAt": "2024-10-24T11:05:32Z",
+                        "updatedAt": "2024-10-24T11:05:35Z",
+                        "variants": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/45902983921902",
+                                        "title": "Default Title",
+                                        "sku": null,
+                                        "price": "600.00"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "cursor": "eyJsYXN0X2lkIjo4Njg2OTA1NDU4OTI2LCJsYXN0X3ZhbHVlIjoiODY4NjkwNTQ1ODkyNiJ9",
+                    "node": {
+                        "id": "gid://shopify/Product/8686905458926",
+                        "title": "The Compare at Price Snowboard",
+                        "createdAt": "2024-10-24T11:05:32Z",
+                        "updatedAt": "2024-10-24T11:05:35Z",
+                        "variants": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/45902983954670",
+                                        "title": "Default Title",
+                                        "sku": null,
+                                        "price": "785.95"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "cursor": "eyJsYXN0X2lkIjo4Njg2OTA1NDkxNjk0LCJsYXN0X3ZhbHVlIjoiODY4NjkwNTQ5MTY5NCJ9",
+                    "node": {
+                        "id": "gid://shopify/Product/8686905491694",
+                        "title": "The Out of Stock Snowboard",
+                        "createdAt": "2024-10-24T11:05:32Z",
+                        "updatedAt": "2024-10-24T11:18:23Z",
+                        "variants": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/45902983987438",
+                                        "title": "Default Title",
+                                        "sku": null,
+                                        "price": "885.95"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "cursor": "eyJsYXN0X2lkIjo4Njg2OTA1NTI0NDYyLCJsYXN0X3ZhbHVlIjoiODY4NjkwNTUyNDQ2MiJ9",
+                    "node": {
+                        "id": "gid://shopify/Product/8686905524462",
+                        "title": "The Videographer Snowboard",
+                        "createdAt": "2024-10-24T11:05:32Z",
+                        "updatedAt": "2024-10-24T11:05:35Z",
+                        "variants": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/45902984380654",
+                                        "title": "Default Title",
+                                        "sku": null,
+                                        "price": "885.95"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "cursor": "eyJsYXN0X2lkIjo4Njg2OTA1NTU3MjMwLCJsYXN0X3ZhbHVlIjoiODY4NjkwNTU1NzIzMCJ9",
+                    "node": {
+                        "id": "gid://shopify/Product/8686905557230",
+                        "title": "The Complete Snowboard",
+                        "createdAt": "2024-10-24T11:05:32Z",
+                        "updatedAt": "2024-10-24T11:55:32Z",
+                        "variants": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/45902984052974",
+                                        "title": "Ice",
+                                        "sku": null,
+                                        "price": "699.95"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/45902984118510",
+                                        "title": "Dawn",
+                                        "sku": null,
+                                        "price": "699.95"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/45902984184046",
+                                        "title": "Powder",
+                                        "sku": null,
+                                        "price": "699.95"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/45902984216814",
+                                        "title": "Electric",
+                                        "sku": null,
+                                        "price": "699.95"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/45902984249582",
+                                        "title": "Sunset",
+                                        "sku": null,
+                                        "price": "699.95"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "cursor": "eyJsYXN0X2lkIjo4Njg2OTA1NTg5OTk4LCJsYXN0X3ZhbHVlIjoiODY4NjkwNTU4OTk5OCJ9",
+                    "node": {
+                        "id": "gid://shopify/Product/8686905589998",
+                        "title": "Selling Plans Ski Wax",
+                        "createdAt": "2024-10-24T11:05:32Z",
+                        "updatedAt": "2024-10-25T11:00:32Z",
+                        "variants": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/45902984020206",
+                                        "title": "Selling Plans Ski Wax",
+                                        "sku": null,
+                                        "price": "24.95"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/45902984085742",
+                                        "title": "Special Selling Plans Ski Wax",
+                                        "sku": null,
+                                        "price": "49.95"
+                                    }
+                                },
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/45902984151278",
+                                        "title": "Sample Selling Plans Ski Wax",
+                                        "sku": null,
+                                        "price": "9.95"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "cursor": "eyJsYXN0X2lkIjo4Njg2OTA1NjIyNzY2LCJsYXN0X3ZhbHVlIjoiODY4NjkwNTYyMjc2NiJ9",
+                    "node": {
+                        "id": "gid://shopify/Product/8686905622766",
+                        "title": "The Hidden Snowboard",
+                        "createdAt": "2024-10-24T11:05:32Z",
+                        "updatedAt": "2024-10-24T11:19:07Z",
+                        "variants": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/45902984282350",
+                                        "title": "Default Title",
+                                        "sku": null,
+                                        "price": "749.95"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "cursor": "eyJsYXN0X2lkIjo4Njg2OTA1NjU1NTM0LCJsYXN0X3ZhbHVlIjoiODY4NjkwNTY1NTUzNCJ9",
+                    "node": {
+                        "id": "gid://shopify/Product/8686905655534",
+                        "title": "The Minimal Snowboard",
+                        "createdAt": "2024-10-24T11:05:32Z",
+                        "updatedAt": "2024-10-24T11:08:23Z",
+                        "variants": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/45902984315118",
+                                        "title": "Default Title",
+                                        "sku": null,
+                                        "price": "885.95"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "cursor": "eyJsYXN0X2lkIjo4Njg2OTA1Njg4MzAyLCJsYXN0X3ZhbHVlIjoiODY4NjkwNTY4ODMwMiJ9",
+                    "node": {
+                        "id": "gid://shopify/Product/8686905688302",
+                        "title": "The Draft Snowboard",
+                        "createdAt": "2024-10-24T11:05:32Z",
+                        "updatedAt": "2024-10-24T11:19:46Z",
+                        "variants": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/45902984347886",
+                                        "title": "Default Title",
+                                        "sku": null,
+                                        "price": "2629.95"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "cursor": "eyJsYXN0X2lkIjo4Njg2OTA1NzIxMDcwLCJsYXN0X3ZhbHVlIjoiODY4NjkwNTcyMTA3MCJ9",
+                    "node": {
+                        "id": "gid://shopify/Product/8686905721070",
+                        "title": "The Multi-location Snowboard",
+                        "createdAt": "2024-10-24T11:05:32Z",
+                        "updatedAt": "2024-10-24T11:50:31Z",
+                        "variants": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/45902984413422",
+                                        "title": "Default Title",
+                                        "sku": null,
+                                        "price": "729.95"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "cursor": "eyJsYXN0X2lkIjo4Njg2OTA1NzUzODM4LCJsYXN0X3ZhbHVlIjoiODY4NjkwNTc1MzgzOCJ9",
+                    "node": {
+                        "id": "gid://shopify/Product/8686905753838",
+                        "title": "The Archived Snowboard",
+                        "createdAt": "2024-10-24T11:05:33Z",
+                        "updatedAt": "2024-10-24T11:20:39Z",
+                        "variants": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/45902984478958",
+                                        "title": "Default Title",
+                                        "sku": null,
+                                        "price": "629.95"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "cursor": "eyJsYXN0X2lkIjo4Njg2OTA1Nzg2NjA2LCJsYXN0X3ZhbHVlIjoiODY4NjkwNTc4NjYwNiJ9",
+                    "node": {
+                        "id": "gid://shopify/Product/8686905786606",
+                        "title": "The Collection Snowboard: Oxygen",
+                        "createdAt": "2024-10-24T11:05:33Z",
+                        "updatedAt": "2024-10-24T11:05:35Z",
+                        "variants": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/45902984446190",
+                                        "title": "Default Title",
+                                        "sku": null,
+                                        "price": "1025.00"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "cursor": "eyJsYXN0X2lkIjo4Njg2OTA1ODE5Mzc0LCJsYXN0X3ZhbHVlIjoiODY4NjkwNTgxOTM3NCJ9",
+                    "node": {
+                        "id": "gid://shopify/Product/8686905819374",
+                        "title": "The 3p Fulfilled Snowboard",
+                        "createdAt": "2024-10-24T11:05:33Z",
+                        "updatedAt": "2024-10-24T11:05:35Z",
+                        "variants": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/45902984511726",
+                                        "title": "Default Title",
+                                        "sku": "sku-hosted-1",
+                                        "price": "2629.95"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "cursor": "eyJsYXN0X2lkIjo4Njg2OTA1ODUyMTQyLCJsYXN0X3ZhbHVlIjoiODY4NjkwNTg1MjE0MiJ9",
+                    "node": {
+                        "id": "gid://shopify/Product/8686905852142",
+                        "title": "The Multi-managed Snowboard",
+                        "createdAt": "2024-10-24T11:05:33Z",
+                        "updatedAt": "2024-10-24T11:05:35Z",
+                        "variants": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/45902984544494",
+                                        "title": "Default Title",
+                                        "sku": "sku-managed-1",
+                                        "price": "629.95"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "cursor": "eyJsYXN0X2lkIjo4Njg2OTA1ODg0OTEwLCJsYXN0X3ZhbHVlIjoiODY4NjkwNTg4NDkxMCJ9",
+                    "node": {
+                        "id": "gid://shopify/Product/8686905884910",
+                        "title": "The Collection Snowboard: Liquid",
+                        "createdAt": "2024-10-24T11:05:33Z",
+                        "updatedAt": "2024-10-24T11:08:09Z",
+                        "variants": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "id": "gid://shopify/ProductVariant/45902984577262",
+                                        "title": "Default Title",
+                                        "sku": null,
+                                        "price": "749.95"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "pageInfo": {
+        "hasNextPage": false,
+        "endCursor": "eyJsYXN0X2lkIjo4Njg2OTA1ODg0OTEwLCJsYXN0X3ZhbHVlIjoiODY4NjkwNTg4NDkxMCJ9"
+    }
+}

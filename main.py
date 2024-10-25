@@ -14,7 +14,6 @@ from langchain_core.runnables import RunnableParallel, RunnablePassthrough
 from langchain.prompts import ChatPromptTemplate
 from fastapi.middleware.cors import CORSMiddleware
 
-
 # Load environment variables where APIs are stored
 load_dotenv()
 
@@ -26,12 +25,11 @@ app = FastAPI()
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000"],  # Update this to match your frontend URL
+    allow_origins=["*"],  # Replace "*" with your frontend's URL in production
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
-
 
 class QueryRequest(BaseModel):
     question: str
@@ -88,20 +86,16 @@ def query_documents(request: QueryRequest):
     parser = StrOutputParser()
 
     # Create the PineconeVectorStore retriever (connect to the existing index)
-    index_name = "rag-index"
-    namespace = 'product'
+    index_name = "mvp"
+    namespace = 'shopify'
     pinecone_vector_store = PineconeVectorStore(
         index_name=index_name, namespace=namespace, embedding=OpenAIEmbeddings(openai_api_key=OPENAI_API_KEY)
     )
 
     # Create the prompt template
     template = """
-    You are an intelligent Shopify merchant assistant that provides helpful, accurate, and concise answers based on the Shopify merchant's needs.
-    Instructions:
-    1. Answer the question based on the context provided.
-    2. If the context is insufficient, respond with "I don't know," and suggest possible actions the merchant can take to find more information.
-    3. After answering the merchant's question, ask if they would like additional tips or recommendations related to Shopify store performance improvements.
-
+    Answer the question based on the context below. If you can't 
+    answer the question, reply "I don't know".
 
     Context: {context}
 

@@ -1,0 +1,273 @@
+{
+    "data": {
+        "orders": {
+            "edges": [
+                {
+                    "cursor": "eyJsYXN0X2lkIjo2MDg2OTEyNjA2NDQ2LCJsYXN0X3ZhbHVlIjoiMjAyNC0xMC0yNCAxMTo0OTowMi4yMzc2NjAifQ==",
+                    "node": {
+                        "id": "gid://shopify/Order/6086912606446",
+                        "name": "#1001",
+                        "createdAt": "2024-10-24T11:49:02Z",
+                        "updatedAt": "2024-10-24T11:49:13Z",
+                        "currencyCode": "MAD",
+                        "totalPriceSet": {
+                            "presentmentMoney": {
+                                "amount": "6532.8",
+                                "currencyCode": "MXN"
+                            }
+                        },
+                        "subtotalPriceSet": {
+                            "presentmentMoney": {
+                                "amount": "5444.0",
+                                "currencyCode": "MXN"
+                            }
+                        },
+                        "customer": null,
+                        "lineItems": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "title": "The Complete Snowboard",
+                                        "quantity": 4,
+                                        "sku": null,
+                                        "originalUnitPrice": "679.53",
+                                        "variantTitle": "Ice"
+                                    }
+                                }
+                            ]
+                        },
+                        "shippingAddress": null,
+                        "shippingLine": null
+                    }
+                },
+                {
+                    "cursor": "eyJsYXN0X2lkIjo2MDg2OTEzMTk2MjcwLCJsYXN0X3ZhbHVlIjoiMjAyNC0xMC0yNCAxMTo0OTo1OS41Mjg1MjIifQ==",
+                    "node": {
+                        "id": "gid://shopify/Order/6086913196270",
+                        "name": "#1002",
+                        "createdAt": "2024-10-24T11:50:00Z",
+                        "updatedAt": "2024-10-24T11:50:10Z",
+                        "currencyCode": "MAD",
+                        "totalPriceSet": {
+                            "presentmentMoney": {
+                                "amount": "759.95",
+                                "currencyCode": "MAD"
+                            }
+                        },
+                        "subtotalPriceSet": {
+                            "presentmentMoney": {
+                                "amount": "729.95",
+                                "currencyCode": "MAD"
+                            }
+                        },
+                        "customer": {
+                            "id": "gid://shopify/Customer/7953306517742",
+                            "firstName": "Karine",
+                            "lastName": "Ruby",
+                            "email": "karine.ruby@example.com"
+                        },
+                        "lineItems": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "title": "The Multi-location Snowboard",
+                                        "quantity": 1,
+                                        "sku": null,
+                                        "originalUnitPrice": "729.95",
+                                        "variantTitle": null
+                                    }
+                                }
+                            ]
+                        },
+                        "shippingAddress": {
+                            "address1": "151 O'Connor St",
+                            "city": "Ottawa",
+                            "zip": "K2P 2L8",
+                            "country": "Canada",
+                            "phone": "+16135550114"
+                        },
+                        "shippingLine": {
+                            "title": "International Shipping",
+                            "originalPriceSet": {
+                                "presentmentMoney": {
+                                    "amount": "30.0",
+                                    "currencyCode": "MAD"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "cursor": "eyJsYXN0X2lkIjo2MDg2OTEzNTU2NzE4LCJsYXN0X3ZhbHVlIjoiMjAyNC0xMC0yNCAxMTo1MDozMi45NjI2MDAifQ==",
+                    "node": {
+                        "id": "gid://shopify/Order/6086913556718",
+                        "name": "#1003",
+                        "createdAt": "2024-10-24T11:50:33Z",
+                        "updatedAt": "2024-10-24T11:50:51Z",
+                        "currencyCode": "MAD",
+                        "totalPriceSet": {
+                            "presentmentMoney": {
+                                "amount": "729.95",
+                                "currencyCode": "MAD"
+                            }
+                        },
+                        "subtotalPriceSet": {
+                            "presentmentMoney": {
+                                "amount": "699.95",
+                                "currencyCode": "MAD"
+                            }
+                        },
+                        "customer": {
+                            "id": "gid://shopify/Customer/7953306517742",
+                            "firstName": "Karine",
+                            "lastName": "Ruby",
+                            "email": "karine.ruby@example.com"
+                        },
+                        "lineItems": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "title": "The Complete Snowboard",
+                                        "quantity": 1,
+                                        "sku": null,
+                                        "originalUnitPrice": "699.95",
+                                        "variantTitle": "Sunset"
+                                    }
+                                }
+                            ]
+                        },
+                        "shippingAddress": {
+                            "address1": "151 O'Connor St",
+                            "city": "Ottawa",
+                            "zip": "K2P 2L8",
+                            "country": "Canada",
+                            "phone": "+16135550114"
+                        },
+                        "shippingLine": {
+                            "title": "International Shipping",
+                            "originalPriceSet": {
+                                "presentmentMoney": {
+                                    "amount": "30.0",
+                                    "currencyCode": "MAD"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "cursor": "eyJsYXN0X2lkIjo2MDg2OTEzNzUzMzI2LCJsYXN0X3ZhbHVlIjoiMjAyNC0xMC0yNCAxMTo1MToxMi42ODE5NzQifQ==",
+                    "node": {
+                        "id": "gid://shopify/Order/6086913753326",
+                        "name": "#1004",
+                        "createdAt": "2024-10-24T11:51:13Z",
+                        "updatedAt": "2024-10-24T11:51:14Z",
+                        "currencyCode": "MAD",
+                        "totalPriceSet": {
+                            "presentmentMoney": {
+                                "amount": "2129.85",
+                                "currencyCode": "MAD"
+                            }
+                        },
+                        "subtotalPriceSet": {
+                            "presentmentMoney": {
+                                "amount": "2099.85",
+                                "currencyCode": "MAD"
+                            }
+                        },
+                        "customer": {
+                            "id": "gid://shopify/Customer/7953306517742",
+                            "firstName": "Karine",
+                            "lastName": "Ruby",
+                            "email": "karine.ruby@example.com"
+                        },
+                        "lineItems": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "title": "The Complete Snowboard",
+                                        "quantity": 4,
+                                        "sku": null,
+                                        "originalUnitPrice": "699.95",
+                                        "variantTitle": "Ice"
+                                    }
+                                }
+                            ]
+                        },
+                        "shippingAddress": {
+                            "address1": "151 O'Connor St",
+                            "city": "Ottawa",
+                            "zip": "K2P 2L8",
+                            "country": "Canada",
+                            "phone": "+16135550114"
+                        },
+                        "shippingLine": {
+                            "title": "International Shipping",
+                            "originalPriceSet": {
+                                "presentmentMoney": {
+                                    "amount": "30.0",
+                                    "currencyCode": "MAD"
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "cursor": "eyJsYXN0X2lkIjo2MDg4NzA2MzkyMzAyLCJsYXN0X3ZhbHVlIjoiMjAyNC0xMC0yNSAxMDo1OTowMS4wNzcxMzIifQ==",
+                    "node": {
+                        "id": "gid://shopify/Order/6088706392302",
+                        "name": "#1005",
+                        "createdAt": "2024-10-25T10:59:01Z",
+                        "updatedAt": "2024-10-25T10:59:02Z",
+                        "currencyCode": "MAD",
+                        "totalPriceSet": {
+                            "presentmentMoney": {
+                                "amount": "29.94",
+                                "currencyCode": "MAD"
+                            }
+                        },
+                        "subtotalPriceSet": {
+                            "presentmentMoney": {
+                                "amount": "24.95",
+                                "currencyCode": "MAD"
+                            }
+                        },
+                        "customer": null,
+                        "lineItems": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "title": "Selling Plans Ski Wax",
+                                        "quantity": 1,
+                                        "sku": null,
+                                        "originalUnitPrice": "24.95",
+                                        "variantTitle": "Selling Plans Ski Wax"
+                                    }
+                                }
+                            ]
+                        },
+                        "shippingAddress": null,
+                        "shippingLine": null
+                    }
+                }
+            ],
+            "pageInfo": {
+                "hasNextPage": false
+            }
+        }
+    },
+    "extensions": {
+        "cost": {
+            "requestedQueryCost": 92,
+            "actualQueryCost": 23,
+            "throttleStatus": {
+                "maximumAvailable": 2000.0,
+                "currentlyAvailable": 1977,
+                "restoreRate": 100.0
+            }
+        }
+    },
+    "pageInfo": {
+        "hasNextPage": false,
+        "endCursor": "eyJsYXN0X2lkIjo2MDg4NzA2MzkyMzAyLCJsYXN0X3ZhbHVlIjoiMjAyNC0xMC0yNSAxMDo1OTowMS4wNzcxMzIifQ=="
+    }
+}

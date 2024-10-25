@@ -1,0 +1,140 @@
+{
+    "data": {
+        "customers": {
+            "edges": [
+                {
+                    "cursor": "eyJsYXN0X2lkIjo3OTUzMzA2NDUyMjA2LCJsYXN0X3ZhbHVlIjoiNzk1MzMwNjQ1MjIwNiJ9",
+                    "node": {
+                        "id": "gid://shopify/Customer/7953306452206",
+                        "firstName": "Ayumu",
+                        "lastName": "Hirano",
+                        "email": "ayumu.hirano@example.com",
+                        "phone": "+16135550127",
+                        "numberOfOrders": "0",
+                        "amountSpent": {
+                            "amount": "0.0",
+                            "currencyCode": "MAD"
+                        },
+                        "createdAt": "2024-10-24T11:05:32Z",
+                        "updatedAt": "2024-10-24T11:05:32Z",
+                        "note": null,
+                        "verifiedEmail": true,
+                        "validEmailAddress": true,
+                        "tags": [],
+                        "lifetimeDuration": "1 day",
+                        "defaultAddress": null,
+                        "addresses": [],
+                        "image": {
+                            "src": "https://cdn.shopify.com/proxy/9d622eccc2b9f642b62ce5969a6c7d997c283a80b8d7b859cac7603dc965d15e/www.gravatar.com/avatar/64fd15c0c79f4c7bf2bf1d6e6b53b6ec.jpg?s=2048&d=https%3A%2F%2Fcdn.shopify.com%2Fshopifycloud%2Fshopify%2Fassets%2Fadmin%2Fcustomers%2Fpolaris%2Favatar-1-fce0242e4d66279157b1e260c9163a31bf734548f4d570485a3f543cee0e6664.png"
+                        },
+                        "canDelete": true
+                    }
+                },
+                {
+                    "cursor": "eyJsYXN0X2lkIjo3OTUzMzA2NDg0OTc0LCJsYXN0X3ZhbHVlIjoiNzk1MzMwNjQ4NDk3NCJ9",
+                    "node": {
+                        "id": "gid://shopify/Customer/7953306484974",
+                        "firstName": "Russell",
+                        "lastName": "Winfield",
+                        "email": "russel.winfield@example.com",
+                        "phone": "+16135550135",
+                        "numberOfOrders": "0",
+                        "amountSpent": {
+                            "amount": "0.0",
+                            "currencyCode": "MAD"
+                        },
+                        "createdAt": "2024-10-24T11:05:32Z",
+                        "updatedAt": "2024-10-24T11:05:32Z",
+                        "note": "This customer is created with most available fields",
+                        "verifiedEmail": true,
+                        "validEmailAddress": true,
+                        "tags": [
+                            "VIP"
+                        ],
+                        "lifetimeDuration": "1 day",
+                        "defaultAddress": {
+                            "formattedArea": "Toronto, Canada",
+                            "address1": "105 Victoria St"
+                        },
+                        "addresses": [
+                            {
+                                "address1": "105 Victoria St"
+                            }
+                        ],
+                        "image": {
+                            "src": "https://cdn.shopify.com/proxy/0eaaa23977beda7042277c5b03faad68de3fcc21ea7c29341039dc709c8670a4/www.gravatar.com/avatar/940c5e0bc42b1b0ed78df17edf0d908e.jpg?s=2048&d=https%3A%2F%2Fcdn.shopify.com%2Fshopifycloud%2Fshopify%2Fassets%2Fadmin%2Fcustomers%2Fpolaris%2Favatar-3-d7b953912ef42b1ef360e0a80bf1d474b9cfc90cb46126bd72ff32d10b47cefb.png"
+                        },
+                        "canDelete": true
+                    }
+                },
+                {
+                    "cursor": "eyJsYXN0X2lkIjo3OTUzMzA2NTE3NzQyLCJsYXN0X3ZhbHVlIjoiNzk1MzMwNjUxNzc0MiJ9",
+                    "node": {
+                        "id": "gid://shopify/Customer/7953306517742",
+                        "firstName": "Karine",
+                        "lastName": "Ruby",
+                        "email": "karine.ruby@example.com",
+                        "phone": "+16135550142",
+                        "numberOfOrders": "3",
+                        "amountSpent": {
+                            "amount": "3619.75",
+                            "currencyCode": "MAD"
+                        },
+                        "createdAt": "2024-10-24T11:05:32Z",
+                        "updatedAt": "2024-10-24T11:51:13Z",
+                        "note": null,
+                        "verifiedEmail": true,
+                        "validEmailAddress": true,
+                        "tags": [],
+                        "lifetimeDuration": "1 day",
+                        "defaultAddress": null,
+                        "addresses": [],
+                        "image": {
+                            "src": "https://cdn.shopify.com/proxy/cc7e9a7f3ba2492afad0f53e2119c5cd8a1903af8832d4e050bc2de3d93aee66/www.gravatar.com/avatar/8b16c29ffcd30182a7ac4d7796c06772.jpg?s=2048&d=https%3A%2F%2Fcdn.shopify.com%2Fshopifycloud%2Fshopify%2Fassets%2Fadmin%2Fcustomers%2Fpolaris%2Favatar-1-fce0242e4d66279157b1e260c9163a31bf734548f4d570485a3f543cee0e6664.png"
+                        },
+                        "canDelete": false
+                    }
+                },
+                {
+                    "cursor": "eyJsYXN0X2lkIjo3OTU1NDYxMTEyMDQ2LCJsYXN0X3ZhbHVlIjoiNzk1NTQ2MTExMjA0NiJ9",
+                    "node": {
+                        "id": "gid://shopify/Customer/7955461112046",
+                        "firstName": "test",
+                        "lastName": "test",
+                        "email": "test@gmail.com",
+                        "phone": null,
+                        "numberOfOrders": "0",
+                        "amountSpent": {
+                            "amount": "0.0",
+                            "currencyCode": "MAD"
+                        },
+                        "createdAt": "2024-10-25T10:23:33Z",
+                        "updatedAt": "2024-10-25T10:23:33Z",
+                        "note": "",
+                        "verifiedEmail": true,
+                        "validEmailAddress": true,
+                        "tags": [],
+                        "lifetimeDuration": "about 1 hour",
+                        "defaultAddress": {
+                            "formattedArea": "Morocco",
+                            "address1": ""
+                        },
+                        "addresses": [
+                            {
+                                "address1": ""
+                            }
+                        ],
+                        "image": {
+                            "src": "https://cdn.shopify.com/proxy/d048cf33ae0af4e664558780079d75de32b8f570e6fa08dc1a281ac74232a24e/www.gravatar.com/avatar/1aedb8d9dc4751e229a335e371db8058.jpg?s=2048&d=https%3A%2F%2Fcdn.shopify.com%2Fshopifycloud%2Fshopify%2Fassets%2Fadmin%2Fcustomers%2Fpolaris%2Favatar-2-a0ee6e3fb3ae515b66b68388b265e5bd1e90646c4c72d59170518f45351e668b.png"
+                        },
+                        "canDelete": true
+                    }
+                }
+            ]
+        }
+    },
+    "pageInfo": {
+        "hasNextPage": false,
+        "endCursor": "eyJsYXN0X2lkIjo3OTU1NDYxMTEyMDQ2LCJsYXN0X3ZhbHVlIjoiNzk1NTQ2MTExMjA0NiJ9"
+    }
+}
